@@ -1,0 +1,36 @@
+%NAME%
+mingw-w64-x86_64-win7appid
+
+%VERSION%
+1.1-4
+
+%BASE%
+mingw-w64-win7appid
+
+%DESC%
+Windows 7 (and up) shortcut application id tool
+
+%URL%
+https://code.google.com/p/win7appid
+
+%ARCH%
+any
+
+%BUILDDATE%
+1617520615
+
+%INSTALLDATE%
+1640662731
+
+%PACKAGER%
+CI (msys2-autobuild/ffebe820/716100001)
+
+%SIZE%
+29212
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
