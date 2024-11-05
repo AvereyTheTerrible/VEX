@@ -4,6 +4,7 @@
         "project_name": "RBPLib",
         "target": "v5",
         "templates": {
+<<<<<<< HEAD
             "Eigen": {
                 "location": "C:\\Users\\avere\\AppData\\Roaming\\PROS\\templates\\Eigen@3.4.90",
                 "metadata": {
@@ -393,6 +394,8 @@
                 "user_files": [],
                 "version": "3.4.90"
             },
+=======
+>>>>>>> acdd31b5acd1445e5ce59e924527af2caaa7bc94
             "kernel": {
                 "location": "C:\\Users\\avere\\AppData\\Roaming\\PROS\\templates\\kernel@4.1.0",
                 "metadata": {
